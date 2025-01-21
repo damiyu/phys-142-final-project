@@ -1,5 +1,5 @@
 # Final Project
-Looked in
+A locked in team.
 
 # Members
 - Darren Yu
